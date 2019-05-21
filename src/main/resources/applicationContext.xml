@@ -19,7 +19,7 @@
     </bean>
 
     <bean id="myCoach"
-        class="com.dhruv.springbasics.ioc.BaseballCoach">
+        class="com.dhruv.springbasics.ioc.CricketCoach">
 
     </bean>
 </beans>
